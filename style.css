@@ -1,0 +1,109 @@
+.container {
+	margin-bottom: 30px;
+}
+.logo {
+	width: 125px;
+	height: auto;
+}
+.buy-button {
+	width: 110px;
+	height: 40px;
+	color: white;
+	background-color: #000000;
+	border-radius: 5px;
+}
+.bg-img-1 {
+	background-image: url('images/bg-1.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 5%;
+	background-size: 5%;
+}
+.bg-img-2 {
+	background-image: url('images/bg-2.png');
+	background-repeat: no-repeat;
+	background-size: 12%;
+	background-position-y: bottom;
+	background-position-x: left;
+}
+.anchor-card {
+	text-decoration: none;
+	color: #ff9d00;
+}
+.card {
+	border: none;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgray;
+}
+.card-body {
+	text-align: center;
+}
+.card-footer {
+	background-color: white;
+	border-top: none;
+	text-align: center;
+	padding-bottom: 30px;
+}
+.img-bag-col {
+	width: 150px;
+	height: 150px;
+	margin-left: 100px;
+	border: none;
+	border-radius: 10px;
+	align-self: center;
+	margin-right: 20px;
+	box-shadow: 5px 5px 10px lightgray;
+}
+.img-perfume-col,
+.img-shoes-row {
+	width: 150px;
+	height: 150px;
+	size: 100%;
+	border: none;
+	margin-top: 20px;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px lightgray;
+}
+
+.beauty-h6,
+.shoes-h6 {
+	text-align: center;
+}
+.img-order {
+	width: 100%;
+}
+.img-6 {
+	margin-left: 40px;
+}
+
+.cat-header {
+	text-align: center;
+	position: relative;
+}
+.underline-small::after {
+	content: ' ';
+	position: absolute;
+	display: block;
+	left: 47%;
+	bottom: -10px;
+	width: 6%;
+	height: 3px;
+	background-color: orange;
+}
+footer p {
+	text-align: center;
+	font-size: 12px;
+	color: grey;
+}
+.header-laptop {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.header-phone {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+.categorites {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
