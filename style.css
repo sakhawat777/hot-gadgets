@@ -2,7 +2,7 @@
 	margin-bottom: 30px;
 }
 .logo {
-	margin-left: 100px;
+	margin-left: 10px;
 	width: 125px;
 	height: auto;
 }
@@ -48,14 +48,15 @@
 .img-bag-col {
 	width: 150px;
 	height: 150px;
-	margin-left: 100px;
 	border: none;
 	border-radius: 10px;
-	align-self: center;
-	margin-right: 20px;
 	box-shadow: 5px 5px 10px lightgray;
+	align-content: center;
 }
-.img-perfume-col,
+.img-6{
+	margin-left: auto;
+}
+.img-perfume-row,
 .img-shoes-row {
 	width: 150px;
 	height: 150px;
@@ -73,13 +74,12 @@
 .img-order {
 	width: 100%;
 }
-.img-6 {
-	margin-left: 40px;
-}
+
 
 .cat-header {
 	text-align: center;
 	position: relative;
+	margin-bottom: 60px;
 }
 .underline-small::after {
 	content: ' ';
@@ -95,6 +95,7 @@ footer p {
 	text-align: center;
 	font-size: 12px;
 	color: grey;
+	padding-top: 30px;
 }
 .header-laptop {
 	margin-top: 10px;
@@ -104,7 +105,7 @@ footer p {
 	margin-top: 40px;
 	margin-bottom: 20px;
 }
-.categorites {
+.categories {
 	margin-top: 40px;
 	margin-bottom: 20px;
 }

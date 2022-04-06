@@ -1,0 +1,18 @@
+/* 
+   ##Screen = 767px to lower resolution device
+*/
+
+@media (max-width: 768px) {
+	.container {
+		width: 100%;
+        overflow: hidden;
+	}
+    .bg-img-2{
+        margin-top: 100px;
+        text-align: center;
+    }
+    
+    
+
+}
+
