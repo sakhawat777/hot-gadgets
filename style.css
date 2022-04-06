@@ -80,6 +80,7 @@
 .cat-header {
 	text-align: center;
 	position: relative;
+	margin-bottom: 60px;
 }
 .underline-small::after {
 	content: ' ';
@@ -104,7 +105,7 @@ footer p {
 	margin-top: 40px;
 	margin-bottom: 20px;
 }
-.categorites {
+.categories {
 	margin-top: 40px;
 	margin-bottom: 20px;
 }
