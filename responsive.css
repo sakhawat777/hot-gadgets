@@ -12,16 +12,7 @@
         text-align: center;
     }
     
+    
 
 }
-@media (min-width: 280px) and (max-width: 653px) {
-    .container {
-		width: 100%;
-        overflow: hidden;
-	}
-    .bg-img-2{
-        margin-top: 100px;
-        text-align: center;
-    }
-    
-}
+
